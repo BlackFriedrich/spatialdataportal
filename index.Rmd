@@ -1,0 +1,13 @@
+---
+title: "Portal de Datos Espaciales"
+description: |
+  <p>¡Descubriendo el valor oculto en tus datos!
+  <p>Transformando datos complejos en insights accionables para una planificación estratégica más efectiva.</p>
+site: distill::distill_website
+---
+
+El valor del análisis de datos espaciales radica en su capacidad para integrar y visualizar datos complejos, proporcionando una perspectiva más profunda y precisa.
+
+Permite identificar relaciones y dinámicas geográficas que de otro modo pasarían desapercibidas, mejorando nuestra comprensión del entorno.
+
+Es esencial para resolver problemas complejos, permitiendo a investigadores y profesionales tomar decisiones informadas basadas en datos precisos y contextuales.

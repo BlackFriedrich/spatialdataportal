@@ -1,0 +1,46 @@
+name: "spatialdataportal"
+title: "Spatialdataportal"
+description: |
+  spatialdataportal3
+output_dir: "docs"
+navbar:
+  logo:
+    image: https://c8.alamy.com/comp/2K26K14/vector-stylized-icon-planet-earth-design-element-for-design-templates-sites-business-cards-posters-brochures-flyers-catalogs-address-internet-page-logo-transparent-gradient-gray-2K26K14.jpg
+    href: index.html
+
+  right:
+    - text: "BlackFriedrich"
+      href: blackfriedrich.html
+    - text: "Proyectos"
+      menu:
+        - text: "Sistema Urbano Provincial"
+          href: sistemaurbanotucuman.html
+        - text: "Gestión de RSU"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+        - text: "Mercado de suelo"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+        - text: "Plantilla GIS | SiMet"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+        - text: "Tesis de Grado | CC Talitas"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+          text: "Ensayos con RStudio"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+    - text: "Lineas de trabajo"
+      menu:
+        - text: "Economía Urbana"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion1.html
+        - text: "Mercado de Suelo"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+        - text: "Sistema Urbano Provincial"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+        - text: "Gestión"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+        - text: "Extensión"
+          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+    - text: "Notas"
+      href: notas.html
+    - text: "Recursos"
+      href: recursos.html
+    - text: "OFUT"
+      href: ofut.html
+output: distill::distill_article
