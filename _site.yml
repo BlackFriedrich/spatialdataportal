@@ -16,13 +16,13 @@ navbar:
         - text: "Sistema Urbano Provincial"
           href: sistemaurbanotucuman.html
         - text: "Gestión de RSU"
-          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+          href: https://github.com/BlackFriedrich/ensayosrstudio/blob/main/indice.html
         - text: "Mercado de suelo"
-          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+          href: https://github.com/BlackFriedrich/ensayosrstudio/blob/main/indice.html
         - text: "Plantilla GIS | SiMet"
-          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+          href: https://github.com/BlackFriedrich/ensayosrstudio/blob/main/indice.html
         - text: "Tesis de Grado | CC Talitas"
-          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+          href: https://github.com/BlackFriedrich/ensayosrstudio/blob/main/indice.html
         - text: "Ensayos RStudio"
           href: https://github.com/BlackFriedrich/ensayosrstudio/blob/main/indice.html
     - text: "Lineas de trabajo"
