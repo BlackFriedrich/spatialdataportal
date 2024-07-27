@@ -23,8 +23,8 @@ navbar:
           href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
         - text: "Tesis de Grado | CC Talitas"
           href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
-        - text: "Ensayos con RStudio"
-          href: https://tuqmano.github.io/geo_utdt/sesiones/sesion2.html
+        - text: "Ensayos RStudio"
+          href: https://github.com/BlackFriedrich/ensayosrstudio/blob/main/indice.html
     - text: "Lineas de trabajo"
       menu:
         - text: "Economía Urbana"
