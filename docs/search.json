@@ -6,7 +6,7 @@
       "description": "Acerca de mí",
       "author": [],
       "contents": "\r\nFederico Carlos Córdoba\r\nBajo el seudónimo de BlackFriedrich.\r\nSoy Arquitecto Urbanista, con formación en Economía Urbana y experiencia en gestión de equipos. Con un perfil laboral diverso, los proyectos en los que participo se orientan hacia problemáticas de managment, planificación urbana e inversiones en arquitectura.\r\nDe los componentes creativos de mi profesión y mi expertis urbana, surgen trabajo con datos y visualizaciones que sirven a la toma de decisiones de otros equipos ejecutivos.\r\nGraduado por la Facultad de Arquitectura y Urbanismo de la UNT (2020).\r\nAlumno de Maestría en Economía Urbana de la UTDT (2022-2024).\r\nIntegrande del Observatorio de Fenómenos Urbanos y Territoriales de la FAU UNT\r\nConoce más\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-07-27T19:39:00-03:00"
+      "last_modified": "2024-08-06T12:00:41-03:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "<p>¡Descubriendo el valor oculto en tus datos!\n<p>Transformando datos complejos en insights accionables para una planificación estratégica más efectiva.<\/p>\n",
       "author": [],
       "contents": "\r\nEl valor del análisis de datos espaciales radica en su capacidad para integrar y visualizar datos complejos, proporcionando una perspectiva más profunda y precisa.\r\nPermite identificar relaciones y dinámicas geográficas que de otro modo pasarían desapercibidas, mejorando nuestra comprensión del entorno.\r\nEs esencial para resolver problemas complejos, permitiendo a investigadores y profesionales tomar decisiones informadas basadas en datos precisos y contextuales.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-07-27T19:39:02-03:00"
+      "last_modified": "2024-08-06T12:00:43-03:00"
     },
     {
       "path": "notas.html",
@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-07-27T19:39:05-03:00"
+      "last_modified": "2024-08-06T12:00:47-03:00"
     },
     {
       "path": "ofut.html",
@@ -42,7 +42,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-07-27T19:39:08-03:00"
+      "last_modified": "2024-08-06T12:00:49-03:00"
     },
     {
       "path": "recursos.html",
@@ -56,7 +56,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-07-27T19:39:10-03:00"
+      "last_modified": "2024-08-06T12:00:52-03:00"
     },
     {
       "path": "sistemaurbanotucuman.html",
@@ -70,7 +70,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-07-27T19:39:12-03:00"
+      "last_modified": "2024-08-06T12:00:54-03:00"
     }
   ],
   "collections": []

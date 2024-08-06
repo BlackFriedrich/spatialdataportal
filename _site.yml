@@ -24,7 +24,7 @@ navbar:
         - text: "Tesis de Grado | CC Talitas"
           href: https://github.com/BlackFriedrich/ensayosrstudio/blob/main/indice.html
         - text: "Ensayos RStudio"
-          href: https://blackfriedrich.github.io/ensayosrstudio/.html
+          href: https://blackfriedrich.github.io/ensayosrstudio/
     - text: "Lineas de trabajo"
       menu:
         - text: "Economía Urbana"
