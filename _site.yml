@@ -13,7 +13,7 @@ navbar:
       href: blackfriedrich.html
     - text: "Proyectos"
       menu:
-        - text: "Sistema Urbano Provincial"
+        - text: "Sistema Urbano Tucuman"
           href: https://blackfriedrich.github.io/sistemaurbanotucuman/
         - text: "Gestión de RSU"
           href: https://github.com/BlackFriedrich/ensayosrstudio/blob/main/indice.html
